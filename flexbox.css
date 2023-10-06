@@ -1,0 +1,228 @@
+.flex1{
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+}
+.flex1 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex2{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    background-color: yellow;
+}
+.flex2 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex3{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: yellow;
+}
+.flex3 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex4{
+    display: flex;
+    justify-content: flex-end;
+    background-color: yellow;
+}
+.flex4 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex5{
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+}
+.flex5 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex6{
+    display: flex;
+    height: 200px;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex6 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex7{
+    display: flex;
+    align-items: baseline;
+    background-color: yellow;
+}
+.flex7 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex8{
+    display: flex;
+    height: 500px;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    background-color: yellow;
+}
+.flex8 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex9{
+    display: flex;
+    height: 500px;
+    flex-wrap: wrap;
+    align-content: space-around;
+    background-color: yellow;
+}
+.flex9 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex10{
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex10 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex11 {
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex11 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex12{
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex12 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex12{
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex12 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex13{
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex13 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex14{
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex14 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.flex15{
+    display: flex;
+    align-items: stretch;
+    background-color: yellow;
+}
+.flex15 > div{
+    background-color: lightblue;
+    width: 85px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
